@@ -1,10 +1,10 @@
- <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Ufabc_logo.png" width="75"/> <br /> Universidade Federal do ABC
+ <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Ufabc_logo.png" width="75"/> <br /> <br /> Universidade Federal do ABC
 NAMCTA008-17SA - Computação Gráfica - Prof. Harlen Costa Batagelo - 2021.1
 
 
 
-Bruno Storer Franco Martins <br /> Github: Bstorer <br /> RA: 11201721797 <br /> <br />
-Renan Ferreira Lima <br /> GitHub: lima-renan	<br /> RA: 11201722759
+**Bruno Storer Franco Martins** <br /> Github: Bstorer <br /> RA: 11201721797 <br /> <br />
+**Renan Ferreira Lima** <br /> GitHub: lima-renan	<br /> RA: 11201722759
 
 
 # Jogo: Tank Attack <br />
@@ -20,9 +20,9 @@ Renan Ferreira Lima <br /> GitHub: lima-renan	<br /> RA: 11201722759
 
 **Infosgame.h/infosgame.cpp:** Esses arquivos contém a declaração e definição da classe *infosgame*. A qual contém o status do jogo, i.e., se está em andamento ou se foi finalizado. Controla também o que os inputs do jogador, é possível utilizar as seguintes teclas: *seta direita* (desloca o tanque para a direita), *seta esquerda* (desloca o tanque para a esquerda), o *cursor do mouse* (para definir a posição dos tiros), *Space* (realiza o tiro), *A* (modo especial, realiza o tiro de “maior intensidade”). Essa classe também gerencia a pontuação, cada tiro que o jogador acerta no tanque inimigo, são acumulados 10 pontos.
 
-**Implementação:** O jogo foi desenvolvido em C++ usando um fork da ABCg, como IDE utilizou-se o Visual Studio Code com os plug-ins (CMake 0.0.17, CMake Tools 1.6.0 e C/C++ IntelliSense, debugging and code browsing 1.2.2)
+**Implementação:** O jogo foi desenvolvido em C++ usando uma fork da ABCg, como IDE utilizou-se o Visual Studio Code com os plug-ins (CMake 0.0.17, CMake Tools 1.6.0 e C/C++ IntelliSense, debugging and code browsing 1.2.2)
 
-## Link para a página do jogo: <https://lima-renan.github.io/abcg/tanks/>
+**Link para a página do jogo:** <https://lima-renan.github.io/abcg/tanks/>
 
 
 
