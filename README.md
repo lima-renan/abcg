@@ -2,7 +2,7 @@
 NAMCTA008-17SA - Computação Gráfica - Prof. Harlen Costa Batagelo - 2021.1
 
 
-Bruno Storer Franco Martins <br /> Github: Bstorer <br /> RA: 11201721797 <br />
+Bruno Storer Franco Martins <br /> Github: Bstorer <br /> RA: 11201721797 <br /> <br />
 Renan Ferreira Lima <br /> GitHub: lima-renan	<br /> RA: 11201722759
 
 # Jogo: Tank Attack
@@ -20,7 +20,7 @@ Renan Ferreira Lima <br /> GitHub: lima-renan	<br /> RA: 11201722759
 
 **Implementação:** O jogo foi desenvolvido em C++ usando um fork da ABCg, como IDE utilizou-se o Visual Studio Code com os plug-ins (CMake 0.0.17, CMake Tools 1.6.0 e C/C++ IntelliSense, debugging and code browsing 1.2.2)
 
-## Link para a página do jogo: https://lima-renan.github.io/abcg/tanks/
+## Link para a página do jogo: (https://lima-renan.github.io/abcg/tanks/)
 
 
 
@@ -28,8 +28,7 @@ Renan Ferreira Lima <br /> GitHub: lima-renan	<br /> RA: 11201722759
 
 
 
-## Fork from:
-
+# Fork from: <br />
 # ABCg
 
 Development framework accompanying the course [MCTA008-17 Computer Graphics](http://professor.ufabc.edu.br/~harlen.batagelo/cg/) at [UFABC](https://www.ufabc.edu.br/).
