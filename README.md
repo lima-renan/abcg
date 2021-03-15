@@ -20,7 +20,7 @@ Renan Ferreira Lima <br /> GitHub: lima-renan	<br /> RA: 11201722759
 
 **Implementação:** O jogo foi desenvolvido em C++ usando um fork da ABCg, como IDE utilizou-se o Visual Studio Code com os plug-ins (CMake 0.0.17, CMake Tools 1.6.0 e C/C++ IntelliSense, debugging and code browsing 1.2.2)
 
-## Link para o GitHub Pages:
+## Link para a página do jogo: https://lima-renan.github.io/abcg/tanks/
 
 
 
