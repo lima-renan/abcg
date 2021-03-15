@@ -2,14 +2,14 @@
 NAMCTA008-17SA - Computação Gráfica - Prof. Harlen Costa Batagelo - 2021.1
 
 
+
 Bruno Storer Franco Martins <br /> Github: Bstorer <br /> RA: 11201721797 <br /> <br />
 Renan Ferreira Lima <br /> GitHub: lima-renan	<br /> RA: 11201722759
 
-# Jogo: Tank Attack
-
+# Jogo: Tank Attack <br />
 ## Objetivo do jogo: Não permitir que os tanques inimigos cruzem o limiar inferior do tanque do jogador.
 
-## Classes:
+## Classes: <br />
 **enemies.h/enemies.cpp:** Esses arquivos contém a declaração e definição da classe *enemie*. Essa classe guarda informações de todos os inimigos, isto é, controla a quantidade, gerencia o status (se o inimigo foi atingido ou não), atualiza a posição dos tanques e verifica se o tanque inimigo pode se movimentar ou não, entre outras. Além disso, a classe *enemies* possui uma correlação com a quantidade de pontos atingida pelo jogador, ou seja, a partir de 500 pontos maior é a quantidade de inimigos se movimentando, tal quantidade é proporcional, logo quanto maior a pontuação mais difícil o jogo vai se tornando. Em suma, é uma das classes fundamentais do jogo.
 
 **player.h/player.cpp:** Esses arquivos contém a declaração e definição da classe *player*. Essa classe define o desenho do tanque do jogador e as movimentações permitidas, no caso, apenas na horizontal e com translação de amplitude máxima de 90º em relação a um referencial na tela, definido em função do cursor do *mouse*. Nessa classe há a implementação do modo de ataque especial, onde a partir de 500 pontos é possível que o jogador realize um ataque mais potente apertando a *tecla A*. 
@@ -20,7 +20,8 @@ Renan Ferreira Lima <br /> GitHub: lima-renan	<br /> RA: 11201722759
 
 **Implementação:** O jogo foi desenvolvido em C++ usando um fork da ABCg, como IDE utilizou-se o Visual Studio Code com os plug-ins (CMake 0.0.17, CMake Tools 1.6.0 e C/C++ IntelliSense, debugging and code browsing 1.2.2)
 
-## Link para a página do jogo: (https://lima-renan.github.io/abcg/tanks/)
+# Link para a página do jogo: <br />
+(https://lima-renan.github.io/abcg/tanks/)
 
 
 
