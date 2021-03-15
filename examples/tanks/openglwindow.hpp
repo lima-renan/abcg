@@ -49,7 +49,7 @@ class OpenGLWindow : public abcg::OpenGLWindow {
   void restart();
   void update();
 
-  int a = 0;
+  //int a = 0;
 };
 
 #endif
