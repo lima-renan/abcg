@@ -9,7 +9,7 @@ NAMCTA008-17SA - Computação Gráfica - Prof. Harlen Costa Batagelo - 2021.1
 
 ## Portfólio de projetos <br /> <br />
 ### Projeto 1 - Jogo - Tanks: <https://lima-renan.github.io/abcg/tanks/README_projeto_1> <br /> <br />
-### Projeto 2 - Screensaver - Random Formats In Space: <https://lima-renan.github.io/abcg/random/README_projeto_2>
+### Projeto 2 - Screensaver - Random Forms In Space: <https://lima-renan.github.io/abcg/random/README_projeto_2> <br /> <br />
 
 
 # Fork from: <br />
