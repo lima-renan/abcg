@@ -4,7 +4,7 @@ NAMCTA008-17SA - Computação Gráfica - Prof. Harlen Costa Batagelo - 2021.1
 
 
 **Bruno Storer Franco Martins** <br /> Github: Bstorer <br /> RA: 11201721797 <br /> <br />
-**Renan Ferreira Lima** <br /> GitHub: lima-renan	<br /> RA: 11201722759
+**Renan Ferreira Lima** <br /> GitHub: lima-renan	<br /> RA: 11201722759 <br /> <br /> <br /> <br />
 
 
 ## Portfólio de projetos <br /> <br />
