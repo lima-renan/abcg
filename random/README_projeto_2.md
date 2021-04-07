@@ -22,7 +22,7 @@ NAMCTA008-17SA - Computação Gráfica - Prof. Harlen Costa Batagelo - 2021.1
 
 **Implementação:** O screensaver foi desenvolvido em C++ usando uma fork da ABCg, como IDE utilizou-se o Visual Studio Code com os plug-ins (CMake 0.0.17, CMake Tools 1.6.0 e C/C++ IntelliSense, debugging and code browsing 1.2.2)
 
-**Link para a página do screensaver:** <https://github.com/lima-renan/abcg/tree/main/random> <br />
+**Link para a página do screensaver:** <https://lima-renan.github.io/abcg/random> <br />
 **Link para código fonte:**  <https://github.com/lima-renan/COMP_GRAFICA_UFABC_2021/tree/main/Projeto%202/RandomFormsInSpace>
 
 
