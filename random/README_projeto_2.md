@@ -16,14 +16,14 @@ NAMCTA008-17SA - Computação Gráfica - Prof. Harlen Costa Batagelo - 2021.1
 
 **object.hpp/object.cpp:** Definem a estrutura dos objetos projetados na tela, contém indíces, veŕtices, funções, entre outras características do que é projetado na tela.
 
-**openglwindow.hpp/openglwindow.cpp:** Contêm a definição de como os elementos defem ser plotados na telae administra a interação com o usuário. 
+**openglwindow.hpp/openglwindow.cpp:** Contêm a definição de como os elementos devem ser plotados na tela e administra a interação com o usuário. 
 
 **main.cpp:** Executa a inicialização do programa.
 
 **Implementação:** O screensaver foi desenvolvido em C++ usando uma fork da ABCg, como IDE utilizou-se o Visual Studio Code com os plug-ins (CMake 0.0.17, CMake Tools 1.6.0 e C/C++ IntelliSense, debugging and code browsing 1.2.2)
 
 **Link para a página do jogo:** <https://lima-renan.github.io/abcg/random/> <br />
-**Link para código fonte:**  <https://github.com/lima-renan/COMP_GRAFICA_UFABC_2021/random>
+**Link para código fonte:**  <https://github.com/lima-renan/COMP_GRAFICA_UFABC_2021/tree/main/Projeto%202/RandomFormsInSpace>
 
 
 
