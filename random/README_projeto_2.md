@@ -8,7 +8,7 @@ NAMCTA008-17SA - Computação Gráfica - Prof. Harlen Costa Batagelo - 2021.1
 
 
 ## Screensaver: Random Forms In Space <br />
-### Descrição: O programa gera polígonos coloridos em 3D, a quantidade destes é crescente e não há interação com o teclado ou mouse, a ideia é remeter a um protetor de tela (screensaver).
+### Descrição: O programa gera polígonos coloridos em 3D, a quantidade destes é crescente e não há interação com o teclado ou mouse, a ideia é remeter a um protetor de tela (screensaver). A definição das formas é aleatória, assim como a direção que elas se deslocam, as formas estão limitadas a um espaço de deslocamento (caixa), cada vez que uma forma atinge a borda da caixa, há uma mudança de cor e de posicionamento. O projeto inicia com uma única forma e é limitado a 2000 formas simultâneas, ao atingir esse limite ocorre um decrescimento constante de 1 forma até atingir o estado inicial.
 
 
 #### Estrutura do projeto: <br />
@@ -16,7 +16,7 @@ NAMCTA008-17SA - Computação Gráfica - Prof. Harlen Costa Batagelo - 2021.1
 
 **object.hpp/object.cpp:** Definem a estrutura dos objetos projetados na tela, contém indíces, veŕtices, funções, entre outras características do que é projetado na tela.
 
-**openglwindow.hpp/openglwindow.cpp:** Contêm a definição de como os elementos devem ser plotados na tela e administra a interação com o usuário. 
+**openglwindow.hpp/openglwindow.cpp:** Contêm a definição de como os elementos devem ser plotados na tela.
 
 **main.cpp:** Executa a inicialização do programa.
 
