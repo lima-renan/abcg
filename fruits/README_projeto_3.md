@@ -26,6 +26,13 @@ NAMCTA008-17SA - Computação Gráfica - Prof. Harlen Costa Batagelo - 2021.1
 **Link para a página do jogo:** <https://lima-renan.github.io/abcg/fruits/> <br />
 **Link para código fonte (privado, necessário estar logado):**  <https://github.com/lima-renan/COMP_GRAFICA_UFABC_2021/tree/main/Projeto%203/fruits>
 
+**Referências das frutas:** <br />
+
+**banana.obj, banana.mtl, banana.jpg:** <https://www.cgtrader.com/free-3d-models/food/fruit/banana-read-the-desription>
+
+**mango.obj, mango.mtl, mango.jpg:** <https://www.cgtrader.com/items/2680680/download-page>
+
+**melon.obj, melon.mtl, melon.jpg:** <https://free3d.com/3d-model/fruit-v1--154643.html>
 
 
 
