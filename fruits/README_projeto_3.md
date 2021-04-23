@@ -23,8 +23,8 @@ NAMCTA008-17SA - Computação Gráfica - Prof. Harlen Costa Batagelo - 2021.1
 
 **Implementação:** O jogo foi desenvolvido em C++ usando uma fork da ABCg, como IDE utilizou-se o Visual Studio Code com os plug-ins (CMake 0.0.17, CMake Tools 1.6.0 e C/C++ IntelliSense, debugging and code browsing 1.2.2)
 
-**Link para a página do jogo:** <https://lima-renan.github.io/abcg/tanks/> <br />
-**Link para código fonte (privado, necessário estar logado):**  <https://github.com/lima-renan/COMP_GRAFICA_UFABC_2021/tree/main/Projeto%201/tanks>
+**Link para a página do jogo:** <https://lima-renan.github.io/abcg/fruits/> <br />
+**Link para código fonte (privado, necessário estar logado):**  <https://github.com/lima-renan/COMP_GRAFICA_UFABC_2021/tree/main/Projeto%203/fruits>
 
 
 
