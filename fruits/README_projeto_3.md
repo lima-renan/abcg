@@ -28,9 +28,11 @@ NAMCTA008-17SA - Computação Gráfica - Prof. Harlen Costa Batagelo - 2021.1
 
 **Referências das frutas:** <br />
 
-**banana.obj, banana.mtl, banana.jpg:** <https://www.cgtrader.com/free-3d-models/food/fruit/banana-read-the-desription>
+**banana.obj, banana.mtl:** <https://www.cgtrader.com/free-3d-models/food/fruit/banana-read-the-desription>
+**banana.jpg:** <https://pt.dreamstime.com/fundo-amarelo-liso-da-textura-banana-pele-de-image154935800>
 
-**mango.obj, mango.mtl, mango.jpg:** <https://www.cgtrader.com/items/2680680/download-page>
+**mango.obj, mango.mtl:** <https://www.cgtrader.com/items/2680680/download-page>
+**mango.jpg:** <https://etc.usf.edu/clippix/picture/mango-skin-texture.html>
 
 **melon.obj, melon.mtl, melon.jpg:** <https://free3d.com/3d-model/fruit-v1--154643.html>
 
